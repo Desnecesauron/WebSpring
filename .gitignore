@@ -1,5 +1,7 @@
 # Compiled class file
 *.class
+# Compiled SpringBoot
+*.iml
 
 # Log file
 *.log
