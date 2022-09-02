@@ -8,9 +8,9 @@
 		<version>2.7.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>org.example</groupId>
+	<groupId>org.projects</groupId>
 	<artifactId>WebSpring</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<name>WebSpring</name>
 	<description>Demo project for Spring Boot Web</description>
 	<properties>
